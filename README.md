@@ -272,8 +272,6 @@ weighted avg       0.43      0.25      0.22       102
 Comparing Error Rate with the K Value
 In the training and prediction section we said that there is no way to know beforehand which value of K that yields the best results in the first go.
 
-We randomly chose 5 as the K value and it just happen to result in 100% accuracy.
-
 One way find the best value of K is to plot the graph of K value and the corresponding error rate for the dataset.
 
 We will plot the mean error for the predicted values of test set for all the K values between 1 and 40.
